@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+     <html lang="pl-PL">
+     <html>
+            <head>
+                  <meta charset="utf-8">
+<meta http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-2" />
+   <title>Tabela Barbucha</title>
+</head>
+<body>
+Tabela Barbucha
+<A HREF="index.html"> Wroc </A>
+
+<table border=2 BORDERCOLOR="orange"> <caption>Tabela Barbucha</caption> 
+<thead>
+<tr> 
+<td colspan="5" align="center">Dane komputerowe &mdash; Cezary Barbucha 2G_g1</td>
+</tr> 
+</thead> 
+<tbody> 
+<tr> 
+<td BGCOLOR=green><font color="white"><b>Model karty graficznej</b></td> 
+<td BGCOLOR=green><font color="white"><b>Taktowanie bazowe</td> 
+<td BGCOLOR=green><font color="white"><b>Rozmiar pamieci</td> 
+<td BGCOLOR=green><font color="white"><b>Szyna pamieci</td> 
+<td BGCOLOR=green><font color="white"><b>Typ chlodzenia</td>
+</tr> 
+<tr> 
+<td BGCOLOR=#EDFA8E><font color="red" face="Arial Black"> RTX 3080</td> 
+<td><font color="green" face="DejaVu Sans Light">1440 MHz</td> 
+<td><font color="cyan" face="Calibri"> 10 GB</td> 
+<td rowspan=6 BGCOLOR=#660066><font color="orange" face="Franklin Gothic Demi">256 bit</td> 
+<td rowspan=6><font color="light blue" face="Eras Demi ITC">Aktywne</td> 
+</tr> 
+<tr> 
+<td BGCOLOR=#EDFA8E><font color="red" face="Arial Black"> RTX 3070</td> 
+<td><font color="green" face="DejaVu Sans Light">1815 Mhz</td> 
+<td><font color="cyan" face="Calibri">8 GB</td> 
+
+</tr> 
+<tr> 
+<td BGCOLOR=#EDFA8E><font color="red" face="Arial Black">RTX 2080</td> 
+<td><font color="green" face="DejaVu Sans Light">1815 MHz</td> 
+<td><font color="cyan" face="Calibri">8 GB</td> 
+
+</tr> 
+<tr> 
+<td BGCOLOR=#EDFA8E><font color="red" face="Arial Black">RTX 2070</td> 
+<td><font color="green" face="DejaVu Sans Light">1785 MHz</td> 
+<td><font color="cyan" face="Calibri">8 GB</td> 
+ 
+</tr> 
+<tr> 
+<td BGCOLOR=#EDFA8E><font color="red" face="Arial Black">GTX 1080</td> 
+<td><font color="green" face="DejaVu Sans Light">1657 MHz</td> 
+<td><font color="cyan" face="Calibri">8 GB</td> 
+
+</tr> 
+<td BGCOLOR=#EDFA8E><font color="red" face="Arial Black">GTX 1070</td> 
+<td><font color="green" face="DejaVu Sans Light">1582 MHz</td> 
+<td><font color="cyan" face="Calibri">8 GB</td> 
+
+</tr>
+<td colspan="5" align="center" BGCOLOR=green>Dane komputerowe</td>
+</tr>
+<td colspan="5" align="center" BGCOLOR=green>Autor: Cezary Barbucha z klasy 2G gr.1</td>
+</tbody> 
+</table>
+</body>
+</html>
